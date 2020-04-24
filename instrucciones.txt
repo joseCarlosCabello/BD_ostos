@@ -1,0 +1,6 @@
+bd de datos de ejemplo en el archivo ostosbD
+
+-- se necesita de el conector de mysql con c# instalado en la computadora(se utiliza la version 6.8.8)
+
+
+**este programa fue comercializado pero en las clausulas se incluia que se podria utilizar a manera de sw libre 

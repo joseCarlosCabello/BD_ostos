@@ -1,0 +1,11 @@
+CD /XAMPP/MYSQL/BIN
+mysql -uroot -p
+1
+create database ostos;
+use ostos;
+CREATE OR REPLACE TABLE servicios ( fecha_alta VARCHAR(40), fecha_baja VARCHAR(40), nota VARCHAR(400),remision VARCHAR(400), cliente VARCHAR(400),domicilio VARCHAR(800),telefono1 VARCHAR(40),telefono2 VARCHAR(40),equipo VARCHAR(400),marca VARCHAR(400),modelo VARCHAR(400),falla VARCHAR(400),visita VARCHAR(400),estatus VARCHAR(400),diagnostico VARCHAR(800),presupuesto VARCHAR(500),garantia varchar(800),tecnico1 VARCHAR(500),tecnico2 VARCHAR(500));
+create or replace procedure agregar_animal(in alta varchar(40),in baja varchar(40),in notaa varchar (400),in re varchar(400),in clien varchar(400),in domici varchar(800),in tel1 varchar(40),in tel2 varchar(40),in equi varchar(400),in mar varchar(400),in mode varchar(400),in fa varchar(400),in vis varchar(400),in esta varchar(400),diagnos varchar(800),in pres varchar(500),in gar varchar(800),in tec1 varchar(500),in tec2 varchar(500))
+insert into servicios(fecha_alta,fecha_baja,nota,remision,cliente,domicilio,telefono1,telefono2,equipo,marca,modelo,falla,visita,estatus,diagnostico,presupuesto,garantia,tecnico1,tecnico2) values (alta,baja,notaa,re,clien,domici,tel1,tel2,equi,mar,mode,fa,vis,esta,diagnos,pres,gar,tec1,tec2);
+
+
+update servicios set estatus="refaccion" where domicilio="cerro";

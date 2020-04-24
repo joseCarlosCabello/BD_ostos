@@ -1,0 +1,15 @@
+C:\Users\Rogger\Documents\SharpDevelop Projects\BD_ostos\BD_ostos\bin\Debug\BD_ostos.exe.config
+C:\Users\Rogger\Documents\SharpDevelop Projects\BD_ostos\BD_ostos\bin\Debug\BD_ostos.exe
+C:\Users\Rogger\Documents\SharpDevelop Projects\BD_ostos\BD_ostos\bin\Debug\BD_ostos.pdb
+C:\Users\Rogger\Documents\SharpDevelop Projects\BD_ostos\BD_ostos\obj\Debug\BD_ostos.csprojResolveAssemblyReference.cache
+C:\Users\Rogger\Documents\SharpDevelop Projects\BD_ostos\BD_ostos\obj\Debug\BD_ostos.MainForm.resources
+C:\Users\Rogger\Documents\SharpDevelop Projects\BD_ostos\BD_ostos\obj\Debug\BD_ostos.csproj.GenerateResource.Cache
+C:\Users\Rogger\Documents\SharpDevelop Projects\BD_ostos\BD_ostos\obj\Debug\BD_ostos.exe
+C:\Users\Rogger\Documents\SharpDevelop Projects\BD_ostos\BD_ostos\obj\Debug\BD_ostos.pdb
+C:\Users\Rogger\Documents\SharpDevelop Projects\BD_ostos\BD_ostos\obj\Debug\BD_ostos.Altas.resources
+C:\Users\Rogger\Documents\SharpDevelop Projects\BD_ostos\BD_ostos\obj\Debug\BD_ostos.Buscar.resources
+C:\Users\Rogger\Documents\SharpDevelop Projects\BD_ostos\BD_ostos\obj\Debug\BD_ostos.Buscar_Domicilio.resources
+C:\Users\Rogger\Documents\SharpDevelop Projects\BD_ostos\BD_ostos\obj\Debug\BD_ostos.Buscar_Telefono.resources
+C:\Users\Rogger\Documents\SharpDevelop Projects\BD_ostos\BD_ostos\obj\Debug\BD_ostos.cambio_de_estatus.resources
+C:\Users\Rogger\Documents\SharpDevelop Projects\BD_ostos\BD_ostos\obj\Debug\BD_ostos.Abiertos.resources
+C:\Users\Rogger\Documents\SharpDevelop Projects\BD_ostos\BD_ostos\obj\Debug\BD_ostos.Mostrar_servicios.resources
